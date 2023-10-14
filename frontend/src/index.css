@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #a278c4; /* Change this to your desired background color */
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.navbar {
+  display: flex;
+  background-color: #994edf; /* Change this to your desired background color */
+  color: #000000; /* Change this to your desired text color */
+  padding: 10px; /* Adjust padding as needed */
+  position: sticky; /* Make the navbar sticky */
+  top: 0; /* Stick the navbar to the top of the viewport */
+  z-index: 100; /* Ensure the navbar appears on top of other content */
+}
+
+.logo {
+  height: 40px; /* Adjust the height of the logo as needed */
+  margin-right: 10px; /* Add some space between the logo and links */
+  margin-top: 15px;
+}
+
+.image {
+  width: 100%; /* Set the width to 100% to make the logo full-width */
+  height: auto; /* Auto adjust the height to maintain the aspect ratio */
+  margin: 0; /* Remove any default margin to ensure the logo touches both sides */
+  background-color: #a278c4; /* Change this to your desired background color */
+}
+
+
+.dropdown {
+  background-color: #a278c4; /* Change this to your desired background color */
+  color: #000000; /* Change this to your desired text color */
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+}
+
+.button {
+  margin-left: 20px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+ul.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+ul.list li {
+  display: inline; /* Display list items inline */
+  margin-right: 40px; /* Add some spacing between items (optional) */
+}
