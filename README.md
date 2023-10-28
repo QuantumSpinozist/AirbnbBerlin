@@ -5,6 +5,6 @@ airbnbs in berlin. The model is based on a number of features including location
 form within the backend directory. There I have written a simple FastAPI python backend that can take information about an airbnb and produce a predicted price.
 In the frontend folder is a react.js frontend for providing the information and displaying the predicted price.
 
-Both frontend and backend can be found as docker images on my dockerhub.
+Both frontend and backend can be found as docker images on my dockerhub https://hub.docker.com/repository/docker/quantumspinozist.
 
  
