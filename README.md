@@ -8,3 +8,5 @@ In the frontend folder is a react.js frontend for providing the information and 
 Both frontend and backend can be found as docker images on my dockerhub https://hub.docker.com/repository/docker/quantumspinozist.
 
  
+![Bildschirmfoto vom 2023-11-11 15-16-29](https://github.com/QuantumSpinozist/AirbnbBerlin/assets/143954969/92c054de-82c4-4d44-9c5b-744f9f5b5934)
+![Bildschirmfoto vom 2023-11-11 15-16-40](https://github.com/QuantumSpinozist/AirbnbBerlin/assets/143954969/3116a7aa-8b00-4ef6-a9ae-ea15e2534f2f)
